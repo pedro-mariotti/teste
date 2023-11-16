@@ -1,2 +1,2 @@
-# teste
-Teste para curso unity
+# Repositório do meu jogo Unity
+Descrição do meu jogo Unity
